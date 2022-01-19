@@ -3,7 +3,7 @@ My Anki learning cards for Business IT - Application Management.
 Feel free to use. 
 
 https://apps.ankiweb.net/
-
+.
 
 ## References
 There are also old cards from a fellow student in COBO: 
