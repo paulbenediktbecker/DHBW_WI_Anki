@@ -18,7 +18,7 @@ https://apps.ankiweb.net/
 
 [5] IT-Security -> Done
 
-[5] ITIL -> Nicht fertig, muss noch relevantes adden
+[5] ITIL -> Done
 
 [5] Scrum -> Scrum guide ist drin, folien fehlen
 
