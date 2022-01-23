@@ -24,7 +24,7 @@ https://apps.ankiweb.net/
 
 [5] ITIL -> Up to Date 23.01.
 
-[5] Scrum -> Scrum guide ist drin, folien fehlen
+[5] Scrum -> Done
 
 [5] Unternehmensführung -> Done
 
