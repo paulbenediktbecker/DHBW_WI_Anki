@@ -22,6 +22,8 @@ https://apps.ankiweb.net/
 
 [5] Scrum -> Scrum guide ist drin, folien fehlen
 
+[5] Unternehmensführung -> Done
+
 
 ## References
 There are also old cards from a fellow student in COBO: 
