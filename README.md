@@ -18,7 +18,7 @@ https://apps.ankiweb.net/
 
 [5] IT-Management -> Nicht fertig, muss noch relevantes adden
 
-[5] IT-Recht -> Lerne ich nicht mit Karteikarten, ist lee
+[5] IT-Recht -> Karten von Finn
 
 [5] IT-Security -> Done
 
