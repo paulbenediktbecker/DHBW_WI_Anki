@@ -12,7 +12,7 @@ https://apps.ankiweb.net/
 ## Curren State Semester 5
 [5] Agile.apkg -> Irrelevant
 
-[5] Controlling -> Done bis auf Formeln der Abweichungsanalyse
+[5] Controlling -> Uo to date 23.01.
 
 [5] Geschäftsprozessmanagement -> Up to date 23.01.
 
@@ -22,7 +22,7 @@ https://apps.ankiweb.net/
 
 [5] IT-Security -> Done
 
-[5] ITIL -> Done
+[5] ITIL -> Up to Date 23.01.
 
 [5] Scrum -> Scrum guide ist drin, folien fehlen
 
