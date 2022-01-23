@@ -30,6 +30,8 @@ https://apps.ankiweb.net/
 
 
 ## References
+S/o to [@Ir0nPow3r](https://github.com/Ir0nPow3r) for providing the Deck "[5] IT-Recht".
+
 There are also old cards from a fellow student in COBO: 
 
 https://www.cobocards.com/pool/de/user/6d3sd1214/-destructive-influence-/
