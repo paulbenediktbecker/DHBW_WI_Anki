@@ -1,5 +1,9 @@
 # DHBW_WI_Anki
 My Anki learning cards for Business IT - Application Management.
+
+These cards include only the information which i think are important. 
+NO GUARANTEE OF COMPLETE INFORMATION.
+
 Feel free to use. 
 
 https://apps.ankiweb.net/
@@ -21,6 +25,8 @@ https://apps.ankiweb.net/
 [5] ITIL -> Done
 
 [5] Scrum -> Scrum guide ist drin, folien fehlen
+
+[5] Unternehmensführung -> Done
 
 
 ## References
