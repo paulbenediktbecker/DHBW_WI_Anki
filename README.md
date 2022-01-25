@@ -16,7 +16,7 @@ https://apps.ankiweb.net/
 
 [5] Geschäftsprozessmanagement -> Up to date 23.01.
 
-[5] IT-Management -> Nicht fertig, muss noch relevantes adden
+[5] IT-Management -> Done, not fully sorted in relevant and not relevant yet
 
 [5] IT-Recht -> Karten von Finn
 
