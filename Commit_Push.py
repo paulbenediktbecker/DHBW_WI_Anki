@@ -2,6 +2,10 @@ import subprocess
 commit_message = input()
 commit_message = "'" + commit_message + "'"
 
+cmd = "git pull"
+args = cmd.split()
+subprocess.call(args)
+
 cmd = "git add -A"
 args = cmd.split()
 subprocess.call(args)
