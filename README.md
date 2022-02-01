@@ -14,15 +14,15 @@ https://apps.ankiweb.net/
 
 [5] Controlling -> Uo to date 23.01.
 
-[5] Geschäftsprozessmanagement -> Up to date 23.01.
+[5] Geschäftsprozessmanagement -> Done
 
-[5] IT-Management -> Done, not fully sorted in relevant and not relevant yet
+[5] IT-Management -> Done
 
 [5] IT-Recht -> Karten von Finn
 
 [5] IT-Security -> Done
 
-[5] ITIL -> Up to Date 23.01.
+[5] ITIL -> Done
 
 [5] Scrum -> Done
 
