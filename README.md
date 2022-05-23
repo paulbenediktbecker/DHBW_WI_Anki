@@ -9,25 +9,10 @@ Feel free to use.
 https://apps.ankiweb.net/
 .
 
-## Curren State Semester 5
-[5] Agile.apkg -> Irrelevant
+## Curren State Semester 6
+[6] EDI -> 23.05.2022 up to date 
 
-[5] Controlling -> Uo to date 23.01.
-
-[5] Geschäftsprozessmanagement -> Done
-
-[5] IT-Management -> Done
-
-[5] IT-Recht -> Karten von Finn
-
-[5] IT-Security -> Done
-
-[5] ITIL -> Done
-
-[5] Scrum -> Done
-
-[5] Unternehmensführung -> Done
-
+[6] Logistik & SCM -> Alles ab outbound fehlt. 
 
 ## References
 S/o to [@Ir0nPow3r](https://github.com/Ir0nPow3r) for providing the Deck "[5] IT-Recht".
