@@ -10,7 +10,7 @@ https://apps.ankiweb.net/
 .
 
 ## Current State Semester 6
-[6] EDI -> 23.05.2022 up to date 
+[6] EDI -> done
 
 [6] Logistik & SCM -> Alles ab outbound fehlt. 
 
