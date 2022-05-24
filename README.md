@@ -10,6 +10,8 @@ https://apps.ankiweb.net/
 .
 
 ## Current State Semester 6
+[6] Big Data -> up to date 24.5.
+
 [6] EDI -> done
 
 [6] Logistik & SCM -> Alles ab outbound fehlt. 
