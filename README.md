@@ -10,11 +10,11 @@ https://apps.ankiweb.net/
 .
 
 ## Current State Semester 6
-[6] Big Data -> up to date 24.5.
+[6] Big Data -> up to date 29.5.
 
 [6] EDI -> done
 
-[6] Logistik & SCM -> Alles ab outbound fehlt. 
+[6] Logistik & SCM -> up to date 29.5.
 
 ## References
 S/o to [@Ir0nPow3r](https://github.com/Ir0nPow3r) for providing the Deck "[5] IT-Recht".
