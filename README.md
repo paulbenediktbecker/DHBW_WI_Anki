@@ -10,7 +10,7 @@ https://apps.ankiweb.net/
 .
 
 ## Current State Semester 6
-[6] Big Data -> up to date 29.5.
+[6] Big Data -> up to date 30.5.
 
 [6] EDI -> done
 
