@@ -14,7 +14,7 @@ https://apps.ankiweb.net/
 
 [6] EDI -> done
 
-[6] Logistik & SCM -> up to date 29.5.
+[6] Logistik & SCM -> done
 
 ## References
 S/o to [@Ir0nPow3r](https://github.com/Ir0nPow3r) for providing the Deck "[5] IT-Recht".
