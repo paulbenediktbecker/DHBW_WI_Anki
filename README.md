@@ -10,7 +10,7 @@ https://apps.ankiweb.net/
 .
 
 ## Current State Semester 6
-[6] Big Data -> up to date 02.06., Hadoop fehlt
+[6] Big Data -> done
 
 [6] EDI -> done
 
