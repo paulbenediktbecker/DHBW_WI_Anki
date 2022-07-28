@@ -1,7 +1,7 @@
 # DHBW_WI_Anki
 My Anki learning cards for Business IT - Application Management (DHBW Stuttgart Wirtschaftsinformatik).
 
-These cards include only the information which i think is important. 
+These cards include only the information which i think is important.  
 NO GUARANTEE OF COMPLETE INFORMATION.
 
 Feel free to use. 
